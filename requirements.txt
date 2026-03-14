@@ -1,0 +1,17 @@
+torch
+torchvision
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+timm
+torchattacks
+kagglehub
+seaborn
+nvidia-ml-py3
+ipykernel 
+adversarial-robustness-toolbox 
+scipy 
+requests 
+pyyaml
